@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Code Kata Repository
 ========================
 
