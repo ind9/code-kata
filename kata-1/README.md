@@ -19,3 +19,9 @@ Source - [From CodeKata](http://codekata.com/kata/kata19-word-chains/)
 
 * Ashwanth / Chaitanya
 * Rajesh / Vinoth
+
+### Videos
+
+Episide #1 - Wordchains
+
+[![Code Kata - Episode #1 - Word Chains](http://img.youtube.com/vi/DW0RndufKdA/0.jpg)](http://www.youtube.com/watch?v=DW0RndufKdA)
